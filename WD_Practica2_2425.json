@@ -116,4 +116,13 @@
     "texto": "Pàgina web d'una botiga de mobles amb barreres d'accessibilitat per empatitzar amb persones amb discapacitat.",
     "url": "https://blauarbiol.github.io/practica2/"
   }
+   {
+    "id": 13,
+    "autor": "Nico Gómez i Jaume Agulló",
+    "titulo": "Museo para (casi) todos",
+    "srcimg": "https://github.com/Nicogomezbeltran/practica2/blob/2a724cbb691a7e42aa506b832fed9687b762231f/img/lagranola.2fa44bf6.png",
+    "alt": "Imagen de una de las obras, en este caso, La gran ola",
+    "texto": "Página web de un museo para que las personas sin discapacidad experimenten las barreras de acceso que sufren las personas con discapacidad ",
+    "url": "https://nicogomezbeltran.github.io/practica2/"
+  }
 ]
